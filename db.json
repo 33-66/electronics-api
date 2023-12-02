@@ -1,129 +1,119 @@
 {
-"products":[
-  {
-  "id":1,
-  "name":"T-shirt",
-  "image":" https://www.pexels.com/photo/displayed-levis-shirt-in-a-store-14528152/",
-  "description":"High quality clothes",
-  "price":"44",
-  "category":"clothing"
-  
-  },
-  {
-    "id":2,
-    "name":"shoes",
-    "image":"https://www.pexels.com/photo/brown-leather-shoes-hanged-in-the-bazaar-12164659/",
-    "description":"The best shoes Lizard leather",
-    "price":"50",
-    "category":"clothing"
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "image": "https://cdn.pixabay.com/photo/2017/01/13/04/56/t-shirt-1976334_1280.png",
+      "description": "High quality clothes",
+      "price": "44",
+      "category": "clothing"
+    },
+    {
+      "id": 2,
+      "name": "shoes",
+      "image": "https://images.pexels.com/photos/3360545/pexels-photo-3360545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "The best shoes Lizard leather",
+      "price": "50",
+      "category": "clothing"
+    },
+    {
+      "id": 3,
+      "name": "hoodie",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/18/49/man-1283576_1280.jpg",
+      "description": "A very comfortable hoodie",
+      "price": "55",
+      "category": "clothing"
+    },
+    {
+      "id": 4,
+      "name": "socks",
+      "image": "https://cdn.pixabay.com/photo/2016/12/14/11/34/socks-1906060_1280.jpg",
+      "description": "Very warm socks",
+      "price": "30",
+      "category": "clothing"
+    },
+    {
+      "id": 5,
+      "name": "skirts",
+      "image": "https://cdn.pixabay.com/photo/2017/10/22/17/00/window-2878432_1280.jpg",
+      "description": "Made from the greatest materials",
+      "price": "1000",
+      "category": "clothing"
     
     },
     {
-      "id":3,
-      "name":"hoodie",
-      "image":"https://www.pexels.com/photo/stylish-clothes-on-counter-in-shop-5516096/",
-      "description":"A very comfortable hoodie",
-      "price":"55",
-      "category":"clothing"
+      "id": 6,
+      "name": "scarfs",
+      "image": "https://cdn.pixabay.com/photo/2020/11/22/17/28/cat-5767334_1280.jpg",
+      "description": "Very fashionable and warm",
+      "price": "650",
+      "category": "clothing"
       
-      },
-      {
-        "id":4,
-        "name":"socks",
-        "image":"https://www.pexels.com/photo/brown-fedora-hat-in-selective-focus-photography-35185/",
-        "description":"Very warm socks",
-        "price":"30",
-        "category":"clothing"
-        },
-        {
-          "id":5,
-          "name":"",
-          "image":"",
-          "description":"",
-          "price":"",
-          "category":"clothing",
-          "brands":""
-          },
-          {
-            "id":6,
-            "name":"",
-            "image":"",
-            "description":"",
-            "price":"",
-            "category":"clothing",
-            "brands":""
-            },
-            {
-              "id":8,
-              "name":"",
-              "image":"",
-              "description":"",
-              "price":"",
-              "category":"clothing",
-              "brands":""
-              },
-              {
-                "id":9,
-                "name":"phone",
-                "image":"https://www.pexels.com/photo/black-iphone-7-on-brown-table-699122/",
-                "description":"High performance",
-                "price":"141",
-                "category":"electronics"
-            
-                },
-                {
-                  "id":10,
-                  "name":"",
-                  "image":"",
-                  "description":"",
-                  "price":"",
-                  "category":"electronics"
-                  
-                  },
-                  {
-                    "id":11,
-                    "name":"",
-                    "image":"",
-                    "description":"",
-                    "price":"",
-                    "category":"electronics"
-                    
-                    },
-                    {
-                      "id":12,
-                      "name":"",
-                      "image":"",
-                      "description":"",
-                      "price":"",
-                      "category":"electronics"
-                      
-                      },
-                      {
-                        "id":13,
-                        "name":"",
-                        "image":"",
-                        "description":"",
-                        "price":"",
-                        "category":"electronics"
-                        
-                        },
-                        {
-                          "id":14,
-                          "name":"",
-                          "image":"",
-                          "description":"",
-                          "price":"",
-                          "category":"electronics"
-                          
-                          },
-                          {
-                            "id":15,
-                            "name":"",
-                            "image":"",
-                            "description":"",
-                            "price":"",
-                            "category":"electronics"
-                            
-                            }
- ]
+    },
+    {
+      "id": 8,
+      "name": "Hats",
+      "image": "https://cdn.pixabay.com/photo/2016/09/16/18/02/for-sale-1674726_1280.jpg",
+      "description": "Just what you want to complete your outfit",
+      "price": "45",
+      "category": "clothing"
+      
+    },
+    {
+      "id": 9,
+      "name": "phone",
+      "image": "https://images.pexels.com/photos/9555106/pexels-photo-9555106.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "High performance",
+      "price": "141",
+      "category": "electronics"
+    },
+    {
+      "id": 10,
+      "name": "camera",
+      "image": "https://images.pexels.com/photos/3497065/pexels-photo-3497065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Amazing picture quality",
+      "price": "1000",
+      "category": "electronics"
+    },
+    {
+      "id": 11,
+      "name": "Laptops",
+      "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Best graphics",
+      "price": "500",
+      "category": "electronics"
+    },
+    {
+      "id": 12,
+      "name": "Earphones",
+      "image": "https://images.pexels.com/photos/248510/pexels-photo-248510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Audio output amazing",
+      "price": "1",
+      "category": "electronics"
+    },
+    {
+      "id": 13,
+      "name": "charger",
+      "image": "https://cdn.pixabay.com/photo/2018/07/01/13/28/two-pin-3509490_1280.jpg",
+      "description": "Greatest comeback recharges your phone withh ease",
+      "price": "35",
+      "category": "electronics"
+    },
+    {
+      "id": 14,
+      "name": "watch",
+      "image": "https://images.pexels.com/photos/4041181/pexels-photo-4041181.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Talking about fashion we got you",
+      "price": "30",
+      "category": "electronics"
+    },
+    {
+      "id": 15,
+      "name": "Head phones",
+      "image": "https://images.pexels.com/photos/3394651/pexels-photo-3394651.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "description": "amazing",
+      "price": "200",
+      "category": "electronics"
     }
+  ]
+}
