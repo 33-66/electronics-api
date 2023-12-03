@@ -7,7 +7,7 @@
       "description": "High quality clothes",
       "price": "44",
       "category": "clothing",
-      "quantity":9
+      "quantity": 9
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "description": "The best shoes Lizard leather",
       "price": "50",
       "category": "clothing",
-      "quantity":14
+      "quantity": 14
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "description": "A very comfortable hoodie",
       "price": "55",
       "category": "clothing",
-      "quantity":12
+      "quantity": 12
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "description": "Very warm socks",
       "price": "30",
       "category": "clothing",
-      "quantity":17
+      "quantity": 17
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "description": "Made from the greatest materials",
       "price": "1000",
       "category": "clothing",
-      "quantity":14
+      "quantity": 14
     },
     {
       "id": 6,
@@ -52,8 +52,7 @@
       "description": "Very fashionable and warm",
       "price": "650",
       "category": "clothing",
-      "quantity":12
-      
+      "quantity": 12
     },
     {
       "id": 8,
@@ -62,8 +61,7 @@
       "description": "Just what you want to complete your outfit",
       "price": "45",
       "category": "clothing",
-      "quantity":15
-      
+      "quantity": 15
     },
     {
       "id": 9,
@@ -72,7 +70,7 @@
       "description": "High performance",
       "price": "141",
       "category": "electronics",
-      "quantity":6
+      "quantity": 6
     },
     {
       "id": 10,
@@ -81,7 +79,7 @@
       "description": "Amazing picture quality",
       "price": "1000",
       "category": "electronics",
-      "quantity":7
+      "quantity": 7
     },
     {
       "id": 11,
@@ -90,7 +88,7 @@
       "description": "Best graphics",
       "price": "500",
       "category": "electronics",
-      "quantity":10
+      "quantity": 10
     },
     {
       "id": 12,
@@ -99,7 +97,7 @@
       "description": "Audio output amazing",
       "price": "1",
       "category": "electronics",
-      "quantity":20
+      "quantity": 20
     },
     {
       "id": 13,
@@ -108,7 +106,7 @@
       "description": "Greatest comeback recharges your phone withh ease",
       "price": "35",
       "category": "electronics",
-      "quantity":40
+      "quantity": 40
     },
     {
       "id": 14,
@@ -126,6 +124,294 @@
       "description": "amazing",
       "price": "200",
       "category": "electronics"
+    },
+    {
+      "id": 16,
+      "name": "Audi ",
+      "image": "https://cdn.pixabay.com/photo/2015/12/04/09/33/audi-1076316_1280.jpg",
+      "description": "One of the greatest cars",
+      "price": 1000000,
+      "quantity": 10,
+      "category": "vehicles"
+    },
+    {
+      "id": "17",
+      "name": "nissan GTR",
+      "image": "https://cdn.pixabay.com/photo/2017/11/24/20/39/nissan-gtr-2975651_1280.jpg",
+      "description": "amazing",
+      "price": "10000",
+      "quantity": "5",
+      "category": "vehicles"
+    },
+    {
+      "id": "18",
+      "name": "bmw-m4-convertible",
+      "image": "https://cdn.pixabay.com/photo/2018/02/21/03/15/bmw-m4-3169357_1280.jpg",
+      "description": "Amazing,stylish and comfortable",
+      "price": "10000",
+      "quantity": "5",
+      "category": "vehicles"
+    },
+    {
+      "id": "19",
+      "name": "amborghini aventador",
+      "image": "https://cdn.pixabay.com/photo/2017/11/09/01/49/lamborghini-aventador-2932196_1280.jpg",
+      "description": " With a raucous 769-hp V-12 engine and an exotic exterior, the 2022 Lamborghini Aventador is the definition of a hyper car.",
+      "price": "1000000",
+      "quantity": "10",
+      "category": "vehicles"
+    },
+    {
+      "id": "20",
+      "name": "sofa",
+      "image": "https://images.pexels.com/photos/1090092/pexels-photo-1090092.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Very ideal for your house",
+      "price": "10",
+      "quantity": "50",
+      "category": "furniture"
+    },
+    {
+      "id": "21",
+      "name": "beds",
+      "image": "https://images.pexels.com/photos/1329711/pexels-photo-1329711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Talk about Comfortability we got you",
+      "price": "50000",
+      "quantity": "7",
+      "category": "furniture"
+    },
+    {
+      "id": "22",
+      "name": "chair",
+      "image": "https://images.pexels.com/photos/1148955/pexels-photo-1148955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Very ideal for your house",
+      "price": "500",
+      "quantity": "3",
+      "category": "furniture"
+    },
+    {
+      "id": "23",
+      "name": "Dinner Table",
+      "image": "https://images.pexels.com/photos/932095/pexels-photo-932095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Very ideal for your house",
+      "price": "20",
+      "quantity": "3",
+      "category": "furniture"
+    },
+    {
+      "id": "24",
+      "name": "Cleanser",
+      "image": "https://images.pexels.com/photos/5264269/pexels-photo-5264269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Make your skin amazing",
+      "price": "50",
+      "quantity": "4",
+      "category": "Beauty"
+    },
+    {
+      "id": "25",
+      "name": "serum",
+      "image": "https://images.pexels.com/photos/15569183/pexels-photo-15569183/free-photo-of-bottles-with-cosmetic-products.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Make your skin amazing",
+      "price": "20",
+      "quantity": "10",
+      "category": "Beauty"
+    },
+    {
+      "id": "26",
+      "name": "Exfoliator",
+      "image": "https://images.pexels.com/photos/19242428/pexels-photo-19242428/free-photo-of-a-tray-with-cosmetic-products.jpeg",
+      "description": "Make your skin amazing",
+      "price": "20",
+      "quantity": "5",
+      "category": "Beauty"
+    },
+    {
+      "id": "27",
+      "name": "brush",
+      "image": "https://images.pexels.com/photos/2721977/pexels-photo-2721977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "All types of brushes you want ",
+      "price": "11",
+      "quantity": "111",
+      "category": "Beauty"
+    },
+    {
+      "id": "28",
+      "name": "lip stick",
+      "image": "https://images.pexels.com/photos/301367/pexels-photo-301367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Beautiful",
+      "price": "20",
+      "quantity": "200",
+      "category": "Beauty"
+    },
+    {
+      "id": "29",
+      "name": "rings",
+      "image": "https://images.pexels.com/photos/1670723/pexels-photo-1670723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "fashion to its best",
+      "price": "10",
+      "quantity": "500",
+      "category": "Jewellery accesories"
+    },
+    {
+      "id": "30",
+      "name": "ear rings",
+      "image": "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "fashion to its best",
+      "price": "20",
+      "quantity": "300",
+      "category": "Jewellery accesories"
+    },
+    {
+      "id": "31",
+      "name": "beer",
+      "image": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Made from the greatest materials",
+      "price": "30",
+      "quantity": "20",
+      "category": "Food and Beverages"
+    },
+    {
+      "id": "32",
+      "name": "Red wine",
+      "image": "https://images.pexels.com/photos/95960/pexels-photo-95960.jpeg",
+      "description": "Made from the greatest materials",
+      "price": "1000",
+      "quantity": "33",
+      "category": "Food and Beverages"
+    },
+    {
+      "id": "33",
+      "name": "fruits",
+      "image": "https://images.pexels.com/photos/775032/pexels-photo-775032.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Fresh from farm",
+      "price": "10",
+      "quantity": "13",
+      "category": "Food and Beverages"
+    },
+    {
+      "id": "34",
+      "name": "dools",
+      "image": "https://images.pexels.com/photos/220137/pexels-photo-220137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Amazing toy",
+      "price": "10",
+      "quantity": "100",
+      "category": "Toys and games"
+    },
+    {
+      "id": "35",
+      "name": "Doll house",
+      "image": "https://images.pexels.com/photos/191360/pexels-photo-191360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Amazing toy",
+      "price": "100",
+      "quantity": "150",
+      "category": "Toys and games"
+    },
+    {
+      "id": "36",
+      "name": "Darts",
+      "image": "https://images.pexels.com/photos/695266/pexels-photo-695266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "One of the greatest game",
+      "price": "140",
+      "quantity": "160",
+      "category": "Toys and games"
+    },
+    {
+      "id": "37",
+      "name": "chess",
+      "image": "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg",
+      "description": "One of the greatest game",
+      "price": "110",
+      "quantity": "440",
+      "category": "Toys and games"
+    },
+    {
+      "id": "38",
+      "name": "Dog food",
+      "image": "https://images.pexels.com/photos/18764148/pexels-photo-18764148/free-photo-of-close-up-of-dog-food.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "high quality feed",
+      "price": "110",
+      "quantity": "500",
+      "category": "pet supplies"
+    },
+    {
+      "id": "39",
+      "name": "cat food",
+      "image": "https://images.pexels.com/photos/16471497/pexels-photo-16471497/free-photo-of-cat-with-food-on-pavement.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "best cat food",
+      "price": "20",
+      "quantity": "300",
+      "category": "pet supplies"
+    },
+    {
+      "id": "40",
+      "name": "cat toys",
+      "image": "https://images.pexels.com/photos/7473044/pexels-photo-7473044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Best kitten toy",
+      "price": "10",
+      "quantity": "1000",
+      "category": "pet supplies"
+    },
+    {
+      "id": "41",
+      "name": "basketball pole",
+      "image": "https://images.pexels.com/photos/18923555/pexels-photo-18923555/free-photo-of-tennis-balls-in-a-red-fishing-net-hanging-from-a-basketball-hoop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Ideal for everyone",
+      "price": "200",
+      "quantity": "10",
+      "category": "Sports and Outdoors"
+    },
+    {
+      "id": "42",
+      "name": "Tennis balls",
+      "image": "https://images.pexels.com/photos/226586/pexels-photo-226586.jpeg",
+      "description": "Essential during tennis",
+      "price": "10",
+      "quantity": "110",
+      "category": "Sports and Outdoors"
+    },
+    {
+      "id": "43",
+      "name": "nets",
+      "image": "https://images.pexels.com/photos/18026260/pexels-photo-18026260/free-photo-of-a-soccer-goal-in-a-field-with-trees-and-grass.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Essential during soccer",
+      "price": "56",
+      "quantity": "119",
+      "category": "Sports and Outdoors"
+    },
+    {
+      "id": "44",
+      "name": "sport shoes",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "sporting to the fullest",
+      "price": "111",
+      "quantity": "111",
+      "category": "Sports and Outdoors"
+    },
+    {
+      "id": "45",
+      "name": "pens",
+      "image": "https://images.pexels.com/photos/983826/pexels-photo-983826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "writes to perfection",
+      "price": "1",
+      "quantity": "10",
+      "category": "Books and Stationary"
+    },
+    {
+      "id": "46",
+      "name": "note book",
+      "image": "https://images.pexels.com/photos/544115/pexels-photo-544115.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Greatest stationary",
+      "price": "20",
+      "quantity": "1100",
+      "category": "Books and Stationary"
+    },
+    {
+      "id": "47",
+      "name": "e book",
+      "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "sttionary innit",
+      "price": "300",
+      "quantity": "2",
+      "category": "Books and Stationary"
     }
   ]
 }
