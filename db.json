@@ -418,6 +418,7 @@
       "name": "labetalol HCL 100Mg",
       "image": "https://www.dvago.pk/_next/image?url=https%3A%2F%2Fdvago-assets.s3.ap-southeast-1.amazonaws.com%2FProductsImages%2F11204.jpg&w=1920&q=50",
       "description": "Used to treat high blood pressure,including high blood pressure in pregnancy,to treat angina(pain in the chest,arms,shoulders or neck caused by efort)",
+      "quantity": "2",
       "price": "Ksh150",
       "category": "Health"
     },
@@ -426,6 +427,7 @@
       "name": "Tenornim Tablets 100Mg",
       "image": "https://www.simplymedsonline.co.uk/storage/products/5490/images/atenolol-tablets-es-401653995005.png",
       "description": "Used to treat high blood pressure and heart associated chest pain.Other uses include the prevention of migraines and treatment of certain irregular heatbeats",
+      "quantity": "110",
       "price": "Ksh200",
       "category": "Health"
     },
@@ -441,7 +443,8 @@
       "id": "51",
       "name": "Olanzapine 10Mg",
       "image": "https://tajgenerics.com/wp-content/uploads/cache/images/Olanzapine-Tablets-10-mg/Olanzapine-Tablets-10-mg-2750425804.jpg",
-      "describe": "Antipsychotic, Antidepressants, Central Nervous System Olanzapine is used to treat certain mental/mood conditions (such as schizophrenia, bipolar disorder)",
+      "description": "Antipsychotic, Antidepressants, Central Nervous System Olanzapine is used to treat certain mental/mood conditions (such as schizophrenia, bipolar disorder)",
+      "quantity": "1000",
       "price": "Ksh120",
       "category": "Health"
     },
@@ -450,6 +453,7 @@
       "name": "Zinc Sulphate 20Mg",
       "image": "https://www.rockethealth.shop/wp-content/uploads/2019/09/Zinc-Sulphate-20mg-Tablet-10s.jpg",
       "description": "Zinc sulfate is given as an adjunct to oral rehydration therapy in order to reduce the duration and severity of diarrhoea, as well as to prevent further occurrences in the 2 to 3 months after treatment.",
+      "quantity": "110",
       "price": "Ksh50",
       "category": "Health"
     },
@@ -458,7 +462,26 @@
       "name": "Acetaminophen 500Mg",
       "image": "https://study.com/cimages/multimages/16/acetominaphen5873104273834339711.jpeg",
       "description": "This drug is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains). ",
+      "quantity": "13",
       "price": "Ksh100",
+      "category": "Health"
+    },
+    {
+      "id": "54",
+      "name": "syringe",
+      "image": "https://cdn.pixabay.com/photo/2020/04/11/08/06/medical-5029289_1280.jpg",
+      "description": "very useful",
+      "quantity": "100",
+      "price": "100",
+      "category": "Health"
+    },
+    {
+      "id": "55",
+      "name": "spectacles",
+      "image": "https://images.pexels.com/photos/5766564/pexels-photo-5766564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1s",
+      "description": "High quality spectacles",
+      "price": "10",
+      "quantity": "100",
       "category": "Health"
     }
   ],
