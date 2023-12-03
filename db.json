@@ -419,7 +419,7 @@
       "image": "https://www.dvago.pk/_next/image?url=https%3A%2F%2Fdvago-assets.s3.ap-southeast-1.amazonaws.com%2FProductsImages%2F11204.jpg&w=1920&q=50",
       "description": "Used to treat high blood pressure,including high blood pressure in pregnancy,to treat angina(pain in the chest,arms,shoulders or neck caused by efort)",
       "price": "Ksh150",
-      "category": "hypertension"
+      "category": "Health"
     },
     {
       "id": "49",
@@ -427,7 +427,7 @@
       "image": "https://www.simplymedsonline.co.uk/storage/products/5490/images/atenolol-tablets-es-401653995005.png",
       "description": "Used to treat high blood pressure and heart associated chest pain.Other uses include the prevention of migraines and treatment of certain irregular heatbeats",
       "price": "Ksh200",
-      "category": "Hypertension"
+      "category": "Health"
     },
     {
       "id": "50",
@@ -435,7 +435,7 @@
       "image": "https://crosslinkpharmacy.co.ke/wp-content/uploads/2023/03/AMLODIPINE-5MG.jpg",
       "description": "A calcium channel blocker used to treat high blood pressure, coronary atery disease and variant angina.It is taken orally",
       "price": "Ksh75",
-      "category": "Anti-Hypertensive"
+      "category": "Health"
     },
     {
       "id": "51",
@@ -443,7 +443,7 @@
       "image": "https://tajgenerics.com/wp-content/uploads/cache/images/Olanzapine-Tablets-10-mg/Olanzapine-Tablets-10-mg-2750425804.jpg",
       "describe": "Antipsychotic, Antidepressants, Central Nervous System Olanzapine is used to treat certain mental/mood conditions (such as schizophrenia, bipolar disorder)",
       "price": "Ksh120",
-      "category": "Anti-Pyschotic"
+      "category": "Health"
     },
     {
       "id": "52",
@@ -451,7 +451,7 @@
       "image": "https://www.rockethealth.shop/wp-content/uploads/2019/09/Zinc-Sulphate-20mg-Tablet-10s.jpg",
       "description": "Zinc sulfate is given as an adjunct to oral rehydration therapy in order to reduce the duration and severity of diarrhoea, as well as to prevent further occurrences in the 2 to 3 months after treatment.",
       "price": "Ksh50",
-      "category": "Electrolyte solution"
+      "category": "Health"
     },
     {
       "id": "53",
@@ -459,7 +459,7 @@
       "image": "https://study.com/cimages/multimages/16/acetominaphen5873104273834339711.jpeg",
       "description": "This drug is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains). ",
       "price": "Ksh100",
-      "category": "Anti-Pyretic"
+      "category": "Health"
     }
   ],
   "cart": [],
