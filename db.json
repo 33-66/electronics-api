@@ -483,7 +483,168 @@
       "price": "10",
       "quantity": "100",
       "category": "Health"
+    },
+    {
+      "id":"56",
+      "name":"sewing thread",
+      "image":"https://images.pexels.com/photos/5660370/pexels-photo-5660370.jpeg",
+      "description":"essential in sewing",
+      "price":"100",
+      "quantity":"200",
+      "category":"crafts and DIYS"
+    },
+    {
+      "id":"57",
+      "name":"measuring tape",
+      "image":"https://images.pexels.com/photos/2974113/pexels-photo-2974113.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description":"Well calibrated",
+      "price":"200",
+      "quantity":"200",
+      "category":"crafts and DIYS"
+    },
+    {
+      "id":"58",
+      "name":"Sewing Machine",
+      "image":"https://images.pexels.com/photos/783590/pexels-photo-783590.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description":"Amazing product for your  Tailoring",
+      "price":"500",
+      "quantity":"20",
+      "category":"crafts and DIYS"
+    },
+    {
+      "id":"59",
+      "name":"scissors",
+      "image":"https://images.pexels.com/photos/4226910/pexels-photo-4226910.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"Very efficient",
+      "price":"40",
+      "quantity":"400",
+      "category":"crafts and DIYS"
+    },{
+      "id":"60",
+      "name":"bus",
+      "image":"https://images.pexels.com/photos/45923/pexels-photo-45923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"A lot of space",
+      "price":"1000000",
+      "quantity":"2",
+      "category":"vehicles"
+    },
+    {
+      "id":"61",
+      "name":"Trucks",
+      "image":"https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"all for sale",
+      "price":"400000",
+      "quantity":"3",
+      "category":"vehicles"
+    },
+    {
+      "id":"62",
+      "name":"Jeep",
+      "image":"https://images.pexels.com/photos/1638459/pexels-photo-1638459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"Amazing",
+      "price":"20",
+      "quantity":"4",
+      "category":"vehicles"
+    },{
+      "id":"63",
+      "name":"Toy truck",
+      "image":"https://images.pexels.com/photos/127074/pexels-photo-127074.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description":"Build a carrer",
+      "price":"300",
+      "quantity":"20",
+      "category":"Toys and games"
+    },{
+      "id":"64",
+      "name":"Hammer",
+      "image":"https://cdn.pixabay.com/photo/2014/09/19/09/54/hammer-451987_1280.jpg",
+      "description":"very britle for use",
+      "price":"300",
+      "quantity":"20",
+      "category":"Tools and Equipment"
+    },
+    {
+      "id":"65",
+      "name":"Saw",
+      "image":"https://cdn.pixabay.com/photo/2013/07/13/12/19/handsaw-159622_1280.png",
+      "description":"Very  well set blades",
+      "price":"200",
+      "quantity":"20",
+      "category":"Tools and Equipment"
+    },
+    {
+      "id":"66",
+      "name":"Spades",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jumia.co.ke%2Fjua-kali-spade-shovel..-151366619.html&psig=AOvVaw1iAsp_POgOHu-pcRWc6AaV&ust=1702387363942000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCo8KK9h4MDFQAAAAAdAAAAABAD",
+      "description":"strong and Efficient",
+      "price":"780",
+      "quantity":"20",
+      "category":"Tools and Equipment"
+    },
+    {
+      "id":"67",
+      "name":"secateurs",
+      "image":"https://agroduka.com/images/product/ANVIL%20SECATEURS.jpg",
+      "description":"amazing",
+      "price":"200",
+      "quantity":"10",
+      "category":"Tools and Equipment"
+    },
+    {
+      "id":"68",
+      "name":"screwdriver",
+      "image":"https://images.pexels.com/photos/914913/pexels-photo-914913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"star-head",
+      "price":"250",
+      "quantity":"300",
+      "category":"Tools and Equipment"
+    },
+    {
+      "id":"69",
+      "name":"Yarn",
+      "image":"https://images.pexels.com/photos/635002/pexels-photo-635002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"All colors",
+      "price":"1400",
+      "quantity":"200",
+      "category":"50"
+    },
+    {
+      "id":"70",
+      "name":"Painting brush",
+      "image":"https://images.pexels.com/photos/1084406/pexels-photo-1084406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"All for sale",
+      "price":"70",
+      "quantity":"70",
+      "category":"crafts and DIYS"
+    },
+    {
+      "id":"71",
+      "name":"Dog leash",
+      "image":"https://images.pexels.com/photos/14116837/pexels-photo-14116837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"Comfortable for the dog and  dog owner",
+      "price":"100",
+      "quantity":"120",
+      "category":"pet supplies"
+    },
+    {
+      "id":"72",
+      "name":"Dog collars",
+      "image":"https://images.pexels.com/photos/7210262/pexels-photo-7210262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"Amazing for your dog",
+      "price":"120",
+      "quantity":"120",
+      "category":"pet supplies"
+    },
+    {
+      "id":"73",
+      "name":"Dog Beds",
+      "image":"https://images.pexels.com/photos/2248516/pexels-photo-2248516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description":"Make your beds  be comfortable",
+      "price":"200",
+      "quantity":"250",
+      "category":"pet supplies"
     }
+    
+    
   ],
   "cart": [],
   "medicine": [
