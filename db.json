@@ -702,7 +702,7 @@
       {
         "id":"1",
         "name":"Geoffrey Njuguna",
-        "image":"image.jpeg",
+        "image":"./image.jpeg",
         "position":"Chairman",
         "Description":"Good leading abilities"
       },
